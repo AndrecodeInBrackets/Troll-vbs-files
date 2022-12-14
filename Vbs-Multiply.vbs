@@ -1,0 +1,1 @@
+x=msgbox("Ur compyuter has vairus!", 0+16, "Hindi-Vairus.exe")
