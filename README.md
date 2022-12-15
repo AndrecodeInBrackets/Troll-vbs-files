@@ -1,11 +1,12 @@
 # Troll .Vbs Files
 
 Here we have some .vbs files (and .bat files) to troll your friends
+Password for the downloads is *Packs123* (Pack 1 doesn't work properly without password)
 
 ## Important
 Don't try at school!
 
-## Duplicating popups (Pack 1)
+## RAM eater (Pack 1)
  The first pack is about a window duplicating. To get rid of it, just close the command prompt that is shown. Remember that you have to close the popups manualy to fully
  escape the RAM eater!
  
